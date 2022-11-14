@@ -1,2 +1,1 @@
-# Tanya-Moghe-Portfolio
-Data Analyst Portfolio
+SOLVE SQL CASE STUDIES WITH ME!
