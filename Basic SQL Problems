@@ -1,0 +1,17 @@
+#BASIC LEVEL SQL PROBLEMS 
+
+-- PROBLEM STATEMENT 1
+write a SQL query that Will return all the opposites of the values in the Value column. If a number is negative, make it positive and vice versa. 
+For this problem statement, your database table is structured like this: 
+
+'CREATE TABLE 'Book' ('id' INTEGER,'Value' INTEGER);
+INSERT INTO Book (id,Value) VALUES(1,-56),
+INSERT INTO Book (id,Value) VALUES (2,76),
+INSERT INTO Book (id,Value) VALUES (3,-84),
+INSERT INTO Book (id,Value) VALUES (4,96),
+INSERT INTO Book (id,Value) VALUES (5,-47);'
+
+AND Here’s what your query should return:
+
+56, -76, 84, -96, 47
+
