@@ -12,7 +12,7 @@ To get a proper insight about the exam you need all the 4 tables.
 # Problem Statement
 
 Now, the objective is to validate the student response and present it in a single table with list of columns mentioned below using SQL. 
-Required output table with column data
+<p> Required output table with column data
 
 Output Column names - 
 
